@@ -2,7 +2,7 @@
 ## Overview 
 This project implements an in-memory file system that supports various file operations such as creating directories, navigating through directories, and performing file operations like create, move, copy, and delete. The system includes a user-friendly command-line interface (CLI) for executing these operations.
 ## Features  
--**mkdir**: Create a new directory. 
+- **mkdir**: Create a new directory. 
 - **cd**: Change the current directory.
 - **ls**: List the contents of the current or specified directory.
 - **touch**: Create a new empty file.
